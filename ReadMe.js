@@ -1,2 +1,1 @@
-console.log("first pull request")
-console.log("by Your Kadhoos :)")
+console.log("good work")
